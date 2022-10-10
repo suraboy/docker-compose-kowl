@@ -1,5 +1,5 @@
-# Go-fiber-api
-This project use in learning monitor kafka by kowl , If any mistake, apologize.
+# docker-composer kowl Web UI
+A Kafka Web UI for developers , If any mistake, apologize.
 
 ref. https://www.lionbloggertech.com/kowl-web-ui-to-explore-apache-kafka-messages-consumers-partitions/
 
